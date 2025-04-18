@@ -12,4 +12,4 @@ console.log(fullName); // My name is
 
 let userName = "Matvey";
 let payment = 300;
-alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`)
+alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`);
