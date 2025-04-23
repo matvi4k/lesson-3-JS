@@ -3,6 +3,7 @@ console.log(typeof resuls); // 1055
 
 const email = "matvey@gmail.com";
 console.log(email.includes('@')); // true
+console.log(email.length);
 
 const const1 = "My ";
 const const2 = "name ";
